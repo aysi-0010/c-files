@@ -1,4 +1,4 @@
-/*
+
 #include <stdio.h>
 
 int factoriel(int number);
@@ -29,4 +29,3 @@ int factoriel(int number){
     return result;
 } 
 
-*/
